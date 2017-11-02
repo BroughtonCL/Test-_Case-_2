@@ -14,9 +14,9 @@
 * Modified By:
   * Name George " Trey" Broughton
 * Modified Date:
-  * Date
+  * Date 11/01/17
 * Requirements Covered:
-  * Description
+  * Description audio should  be  review and  loaded  
 * Test Description/Purpose:
   * Description Player should  beable  to control the  music qualtiy  and  voulme  control 
 * Pre-Test Conditions:
