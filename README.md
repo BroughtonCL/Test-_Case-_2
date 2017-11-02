@@ -18,7 +18,7 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * Description Player should  beable  to control the  music qualtiy  and  voulme  control 
 * Pre-Test Conditions:
   * Description Music file  should  be  added  to the game  and begain when the  player  loads the  game  .
 ## Test Steps: 
